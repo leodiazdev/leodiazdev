@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a seasoned software developer with extensive e
 ### 📫 How to reach me
 
 - **Email:** diazleonardojavier@gmail.com
-- **LinkedIn:** [Leonardo Díaz](www.linkedin.com/in/leonardojdiaz)
+- **LinkedIn:** [Leonardo Díaz](https://www.linkedin.com/in/leonardojdiaz)
 
 
 Thank you for visiting my profile. Let's connect and collaborate!
